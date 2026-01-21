@@ -29,3 +29,28 @@ Pre-fall humanity protected their vaults with guardians, machines given a facsim
 ## The Fall
 
 All life, including bacteria and plants, was destroyed though buildings etc. were left. Except for Micah, in the form of  Hat, who wasn’t alive, so didn’t die. The god lay – in hat form – imprisoned on a dead planet. Micah was a druid in his mortal life, and his godhood focused on protecting nature and the environment. His power was leeched by the planet so that instead of life evolving over billions of years (if ever) it evolved again over hundreds, eventually birthing humans again.
+
+## The Grand Arc: Karzairos and the Unravelling
+
+### The Antagonist's Goal
+Karzairos (The Burning Word), the Celestial ruler of Skepsyris (Chaos + Tension + Truth), seeks to harness the power of Destruction. His goal is not simple annihilation, but to reduce all planes to his own brand of chaos—a "Crucible of Known Madness" where all illusions of order are stripped away, and existence is a constant, burning revelation of conflicting truths. He aims to shatter the Torus (the shape of the universe Will created), merging the Conceptual Planes and the Material Plane into one chaotic singularity.
+
+### The Primordial Context
+*   **Destruction:** Views Karzairos as a useful tool. Destruction allows Karzairos to "harness" him because Karzairos is effectively unlocking the cage Will built. Destruction intends to consume Karzairos last.
+*   **Will:** Cannot intervene directly without alerting Void/Time or admitting his experiment failed. He relies on mortals to limit Destruction's power through their collective willpower. Karzairos attacks this by spreading the "Truth" that civilization is a lie, eroding the mental cage holding Destruction back.
+*   **Void:** The ultimate neutrality. Void is not evil but seeks balance. Void might passively allow Karzairos to act because destroying Will's creation (Pangeneia) would return the multiverse to a simpler state, though Void holds no malice.
+*   **Memory:** The antithesis of Will, representing the Past and Determinism. Unknown to Will, and unknown to the other Primordials, Memory is the narrator of this entire saga. Memory eventually bonds with the bard O'Rel near the end of the series.
+
+### The Mechanism of the Plot
+1.  **Erosion of the Lock:** Karzairos begins by corrupting the Material Plane. By convincing mortals that order is an illusion, he weakens the collective willpower that Will uses to contain Destruction. This manifests as magical anomalies and "Mind-Burn" leaking from Skepsyris.
+2.  **Celestial Civil War:** Karzairos forms a "Chaos Bloc," manipulating or allying with other Celestials like Thymilla (Illusion) and Eranthis (Collaboration) to distract the forces of Order. He uses "Truth" as a weapon to paralyze Althenos (Order) with paradoxes.
+3.  **The Mid-Series Turn:** It is revealed that the Gods (solar-system level) are powerless to stop the rot because it originates from the Celestial layer (universal level). Karzairos achieves a victory that allows Destruction to touch the world directly.
+4.  **The Climax:** The protagonists must fight Karzairos and prove to Will/The Universe that Free Will is worth saving, effectively "voting" Destruction back into its cage.
+
+### The Epilogue: Into the Void
+At the very end, Tarquin and Jeremy (in simulacrum forms) are pulled towards the Void alongside Karzairos. In a final act of defiance/survival, they cast **Time Stop**. The spell encases them and a small portion of the Void in a bubble.
+
+When the bubble collapses, they find themselves in the presence of Void. Void explains that while only moments passed for them, the extreme gravity and time dilation mean trillions of years have passed outside. The matter trapped within the Time Stop has aged enough to form a small galaxy.
+
+*   **Karzairos's Fate:** Void casts Karzairos into the blackness of the Void to drift alone for the same duration—trillions of years—as the ultimate punishment for his disruption of balance.
+*   **Tarquin and Jeremy's Fate:** Void, in a moment of neutrality bordering on kindness, creates a world for them within this pocket galaxy. Memory cannot exist here (as it is a place of pure Void/Future/Nothingness), so their story ends in the text. They are left to wander this world for trillions of years, exploring it together in love, until they eventually cease to exist. It is a beautiful, melancholic, and eternal ending.

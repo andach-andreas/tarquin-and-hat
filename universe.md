@@ -43,3 +43,7 @@ Pan let the balance of the Planes play out and allowed the Celestials to conflic
 This was the last plane to be created, as Pan wasn’t powerful enough to directly imbue anything with enough power to create further existence.
 
 Pan imbued the material realm with the desire to, as with everything, seek balance, and decided to create a system whereby massive dead starts would support tiny, lifebearing planets. The star would in each case be the conduit for the magical fields and would impassively grant these to their planets.
+
+## The Migration
+
+After the creation of the Material Plane, Will's influence bled into other nearby universes and brought over sentience from these, not native to the prime universe, and many shaped by the nature of the conceptual planes. Each plane created a link to another universe, bringing over a range of multiplanar beings. 
