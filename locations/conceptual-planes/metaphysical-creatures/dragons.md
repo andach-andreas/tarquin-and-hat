@@ -28,4 +28,4 @@ Dragons do not generally integrate into mortal society, sometimes choosing to li
 
 If they choose to interact with mortals, they typically act as priests or scientists, seeking to guide and nudge society to improve without taking a leadership or military role to enforce this. 
 
-On very rare occasions, a dragon may take a champion, a mortal to whom they will ascribe increasing power. O'rel is one of those examples. 
+On very rare occasions, a dragon may take a champion, a mortal to whom they will ascribe increasing power. 
