@@ -2,38 +2,42 @@
 
 ## Magic Schools
 
-There are four sources of magic, corresponding to Creation, Being, Destruction and Will. Will’s is far easier to tap into, and any mortal can usually do so with training.
+There are five sources of magic, corresponding to the Primordials: Will, Being, Destruction, Creation, and Memory.
 
-### Arcahe (Will)
-
-Arcane magic can be cast by any being with Will – i.e. everyone, although not everyone knows how. Some people are more naturally talented, and the arcane field can be distilled down to crystals.
+### Arcane (Will)
+Arcane magic is the most common form of magic, accessible to any being with Will. It is the manipulation of the arcane field that permeates spacetime. It is the magic of **agency** and imposing one's will upon reality.
+*   **Key Concept:** Manipulation of existing forces.
+*   **Accessibility:** High. Can be learned by most, though talent varies.
+*   **Storage:** Can be distilled into crystals (batteries).
 
 ### Divine (Being)
+Divine magic is the magic of **embodiment** and belief. It cannot be learned directly; it must be granted by an ascended God.
+*   **Key Concept:** Channeling the power of a higher being who personifies a concept.
+*   **Accessibility:** Restricted to followers of ascended Gods.
+*   **Nature:** Moulds to the personality and domain of the granting God (e.g., Micah grants Nature/Healing).
 
-Divine magic can only be granted or cast by an ascended God. Most who know about it believe the act of ascension is  only achievable by beings of phenomenal arcane power, but in reality, any being who personifies both leadership and congruence can ascend. The Divine power they grant thus moulds to their personality, traits, and any arcane power they might have had. Some gods can in turn grant more access to Arcane casting.
+### Entropic (Destruction)
+Entropic magic stems from the Primordial Destruction. It is the magic of **unmaking** and the acceleration of an end.
+*   **Key Concept:** Targeted decay, erasure, and the reduction of existence to nothingness.
+*   **Accessibility:** Extremely dangerous and rare. Often requires forbidden knowledge or artifacts.
+*   **Nature:** Highly destructive but capable of precise "removal" (e.g., removing a disease or a memory).
 
-Micah was not a skilled caster and was instead a doctor who unified his people in a war against the Unity Coalition, many years before this story started. He ascended when he stood against the warlord attacking his planet, refusing to surrender until he had helped a child. His divine magic thus focuses on healing.
+### Biotic (Creation)
+Biotic magic stems from the Primordial Creation. It is the magic of **making**, growth, and bringing substance from potential.
+*   **Key Concept:** Generation of life, matter, and form.
+*   **Accessibility:** Rare and physically costly.
+*   **Nature:** Can heal, grow, and create, but often requires a catalyst or a sacrifice of life force/environment.
 
-### Occult (Destruction)
-
-Occult magic can be cast by tapping into the destructive field, and is generally highly dangerous. The red crystal is the physical manifestation of destruction in the real world, and only a handful of people from the former coalition knew it was on Gaia, many of whom are dead, and none of whom has revealed this secret.
-
-A small number of followers of the former Unity Coalition are trapped on
-
-### Primal (Creation)
-
-TODO
+### Veridic (Memory)
+Veridic magic stems from the Primordial Memory. It is the magic of **truth** and the past.
+*   **Key Concept:** Absolute recall, truth-seeing, and narrative understanding.
+*   **Accessibility:** Extremely rare, esoteric, and requires a passive, observational mindset.
+*   **Nature:** Focuses on knowing reality as it truly was, stripping away illusions and lies.
 
 ## Current Knowledge
 
 ### On Gaia (Pre-Fall)
-
-The pre-fall humans were well-versed in magic and the arcane arts. They had mastered the manipulation of the arcane field and knew and created many spells from it. They had worked out how to distil the arcane field into concentrated purple crystals, acting as static stored for raw arcane power.
-
-These crystals were used for almost everything, powering machines as well as allowing people to cast more powerful spells, and increase the power of cast spells.
+The pre-fall humans were masters of the Arcane. They had integrated magic into technology, using distilled arcane crystals to power their civilization. They had a deep, scientific understanding of the arcane field.
 
 ### On Gaia (Post-Fall)
-
-Humans know how to cast magic but only at a very basic level and do not know how to distil power into crystals. Crystals found in the vaults are their only source of magical power, and the underlying knowledge of the arcane field  is very weak.
-
-Scholars and scientists are constantly working on understanding this but are making very slow progress. The majority  of spells were invented over a hundred years ago, when Micah’s power was a bit stronger.
+Current knowledge is fragmented. Humans can cast basic magic but have lost the ability to distill power into crystals. They rely on scavenging crystals from ancient vaults. Scientific understanding of the arcane field is in its infancy, with scholars struggling to rediscover what was lost. Most known spells are relatively recent inventions, dating back to the re-emergence of magic via Micah.
