@@ -6,9 +6,7 @@ The entire multiverse is ‘ruled’ by Void, which is an entity that seeks to b
 
 Void and Time fell out over Destruction, their third child. The existence of Time and their children weakened Void, but Destruction would destroy everything, including Time itself, eventually returning the universe to nothingness, and only Void would exist.
 
-Time and Creation conspired, and Creation herself birthed a child without Void’s knowledge. That child was Will, and she gave up a part of her power to living beings and trusted them to limit Destruction’s power without being bound by the same limitations as the Primordials.
-
-The creation of Will was not in keeping with Void’s balance, and another being was created, though Time and Creation didn’t know it. This was the antithesis of Will, and was not named, but Void calls him Memory, and keeps his existence a secret from everyone else.
+Time and Creation conspired, and Creation herself birthed a child without Void’s knowledge. That child was Will, and she gave up a part of her power to living beings and trusted them to limit Destruction’s power without being bound by the same limitations as the Primordials. The theory was that life wants to continue existing, and that these beings with free will would act in a way to preserve this. 
 
 Destruction wanted to create a multiverse that ended – a Big Crunch, in a way. All things would be destroyed and cease to exist, leaving only void.
 
@@ -46,4 +44,8 @@ Pan imbued the material realm with the desire to, as with everything, seek balan
 
 ## The Migration
 
-After the creation of the Material Plane, Will's influence bled into other nearby universes and brought over sentience from these, not native to the prime universe, and many shaped by the nature of the conceptual planes. Each plane created a link to another universe, bringing over a range of multiplanar beings. 
+After the creation of the Material Plane, Will's influence bled into other nearby universes and brought over sentience from these, not native to the prime universe, and many shaped by the nature of the conceptual planes. Each plane created a link to another universe, bringing over (or creating) a range of multiplanar beings. 
+
+In turn, these beings bled over from the eight conceptual planes into the material plane. They were more powerful and common depending on the layout and frequency of portals in Pangenia and their proximity to portals to the material plane. 
+
+The Metaphysicals, as they ended up being called, were viewed as a curiosity by some, and exploited by others. 

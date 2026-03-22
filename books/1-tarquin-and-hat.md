@@ -16,4 +16,4 @@ Hat is actually Micah, a god from a different solar system, brought to Tarquin's
 
 ## Plot
 
-Tarquin uncovers the secrets of the Natural Path and saves Jeremy from a dungeon in which he is captured. 
+Tarquin uncovers the secrets of the Natural Path and saves Jeremy from a dungeon in which he is captured.
